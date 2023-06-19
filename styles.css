@@ -1,4 +1,20 @@
 * {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+.center {
+    
+    padding: 20px;
+    margin: 5px;
+    color:brown;
     background-color: bisque;
+    font-size: 20px;
+    font-weight: bold;
+    width: 20%;
+} 
+
+div  {
     text-align: center;
 }
